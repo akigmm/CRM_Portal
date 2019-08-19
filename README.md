@@ -14,13 +14,7 @@ The Software is made using following Technologies -
 - JDBC (Java Database Connectivity).
 - MySQL - Database.
 
-## Setup
-
-The Project can be setup locally with the following steps.
-
-Use `git clone` to clone this repo to your local machine:
-```
-    $ git clone https://github.com/Parbhat/CRM.git
+#Setup
 ```
 
 The Project uses MySQL for database so install MySQL server into your local machine.
@@ -43,15 +37,4 @@ mysql -u username -p databasename < filename.sql
 ```
 
 _So everything is setup, open the project in Netbeans to use or modify it according to your needs._
-
-## Screenshots
-
-![](http://i.imgur.com/WPnfYJU.png)
-
-![](http://i.imgur.com/ENl7OEo.png)
-
-![](http://i.imgur.com/2xPGPnj.png)
-
-![](http://i.imgur.com/Sl4aeK0.png)
-
-![](http://i.imgur.com/N8BlF0s.png)
+)
